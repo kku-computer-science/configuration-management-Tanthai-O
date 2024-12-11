@@ -1,4 +1,8 @@
 Author : Tanthai Orahunta
 Section : 3
 My personal quote : If Minecraft starts having circles, the world would fall apart.
+<<<<<<< HEAD
 Team number : 4
+=======
+Semester 2/2567
+>>>>>>> 2567
